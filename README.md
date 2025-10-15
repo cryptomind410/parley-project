@@ -13,7 +13,6 @@
 </div>
 
 Parley provides an API for implementing rich text layout.
-It is backed by [Swash](https://github.com/dfrg/swash).
 
 ## The Parley text stack
 
